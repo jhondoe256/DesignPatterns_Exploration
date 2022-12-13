@@ -1,0 +1,120 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "DaisysDayCare.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DaisysDayCare.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DaisysDayCare.Data.dll": {}
+        }
+      },
+      "DaisysDayCare.Momento/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DaisysDayCare.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DaisysDayCare.Momento.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DaisysDayCare.Momento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DaisysDayCare.Data/1.0.0": {
+      "type": "project",
+      "path": "../DaisysDayCare.Data/DaisysDayCare.Data.csproj",
+      "msbuildProject": "../DaisysDayCare.Data/DaisysDayCare.Data.csproj"
+    },
+    "DaisysDayCare.Momento/1.0.0": {
+      "type": "project",
+      "path": "../DaisysDayCare.Momento/DaisysDayCare.Momento.csproj",
+      "msbuildProject": "../DaisysDayCare.Momento/DaisysDayCare.Momento.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "DaisysDayCare.Data >= 1.0.0",
+      "DaisysDayCare.Momento >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Tinka\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\_MoshDesignPatterns\\BehavioralPatterns\\Momento_ChildCareServices\\DaisysDayCare.UI\\DaisysDayCare.UI.csproj",
+      "projectName": "DaisysDayCare.UI",
+      "projectPath": "D:\\_MoshDesignPatterns\\BehavioralPatterns\\Momento_ChildCareServices\\DaisysDayCare.UI\\DaisysDayCare.UI.csproj",
+      "packagesPath": "C:\\Users\\Tinka\\.nuget\\packages\\",
+      "outputPath": "D:\\_MoshDesignPatterns\\BehavioralPatterns\\Momento_ChildCareServices\\DaisysDayCare.UI\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Tinka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\_MoshDesignPatterns\\BehavioralPatterns\\Momento_ChildCareServices\\DaisysDayCare.Data\\DaisysDayCare.Data.csproj": {
+              "projectPath": "D:\\_MoshDesignPatterns\\BehavioralPatterns\\Momento_ChildCareServices\\DaisysDayCare.Data\\DaisysDayCare.Data.csproj"
+            },
+            "D:\\_MoshDesignPatterns\\BehavioralPatterns\\Momento_ChildCareServices\\DaisysDayCare.Momento\\DaisysDayCare.Momento.csproj": {
+              "projectPath": "D:\\_MoshDesignPatterns\\BehavioralPatterns\\Momento_ChildCareServices\\DaisysDayCare.Momento\\DaisysDayCare.Momento.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

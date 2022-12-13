@@ -1,0 +1,15 @@
+D:\_MoshDesignPatterns\BehavioralPatterns\Momento_ChildCareServices\DaisysDayCare.Momento\bin\Debug\net6.0\DaisysDayCare.Momento.deps.json
+D:\_MoshDesignPatterns\BehavioralPatterns\Momento_ChildCareServices\DaisysDayCare.Momento\bin\Debug\net6.0\DaisysDayCare.Momento.dll
+D:\_MoshDesignPatterns\BehavioralPatterns\Momento_ChildCareServices\DaisysDayCare.Momento\bin\Debug\net6.0\ref\DaisysDayCare.Momento.dll
+D:\_MoshDesignPatterns\BehavioralPatterns\Momento_ChildCareServices\DaisysDayCare.Momento\bin\Debug\net6.0\DaisysDayCare.Momento.pdb
+D:\_MoshDesignPatterns\BehavioralPatterns\Momento_ChildCareServices\DaisysDayCare.Momento\bin\Debug\net6.0\DaisysDayCare.Data.dll
+D:\_MoshDesignPatterns\BehavioralPatterns\Momento_ChildCareServices\DaisysDayCare.Momento\bin\Debug\net6.0\DaisysDayCare.Data.pdb
+D:\_MoshDesignPatterns\BehavioralPatterns\Momento_ChildCareServices\DaisysDayCare.Momento\obj\Debug\net6.0\DaisysDayCare.Momento.csproj.AssemblyReference.cache
+D:\_MoshDesignPatterns\BehavioralPatterns\Momento_ChildCareServices\DaisysDayCare.Momento\obj\Debug\net6.0\DaisysDayCare.Momento.GeneratedMSBuildEditorConfig.editorconfig
+D:\_MoshDesignPatterns\BehavioralPatterns\Momento_ChildCareServices\DaisysDayCare.Momento\obj\Debug\net6.0\DaisysDayCare.Momento.AssemblyInfoInputs.cache
+D:\_MoshDesignPatterns\BehavioralPatterns\Momento_ChildCareServices\DaisysDayCare.Momento\obj\Debug\net6.0\DaisysDayCare.Momento.AssemblyInfo.cs
+D:\_MoshDesignPatterns\BehavioralPatterns\Momento_ChildCareServices\DaisysDayCare.Momento\obj\Debug\net6.0\DaisysDayCare.Momento.csproj.CoreCompileInputs.cache
+D:\_MoshDesignPatterns\BehavioralPatterns\Momento_ChildCareServices\DaisysDayCare.Momento\obj\Debug\net6.0\DaisysDayCare.Momento.csproj.CopyComplete
+D:\_MoshDesignPatterns\BehavioralPatterns\Momento_ChildCareServices\DaisysDayCare.Momento\obj\Debug\net6.0\DaisysDayCare.Momento.dll
+D:\_MoshDesignPatterns\BehavioralPatterns\Momento_ChildCareServices\DaisysDayCare.Momento\obj\Debug\net6.0\ref\DaisysDayCare.Momento.dll
+D:\_MoshDesignPatterns\BehavioralPatterns\Momento_ChildCareServices\DaisysDayCare.Momento\obj\Debug\net6.0\DaisysDayCare.Momento.pdb

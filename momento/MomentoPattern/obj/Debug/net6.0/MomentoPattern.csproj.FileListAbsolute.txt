@@ -1,0 +1,15 @@
+D:\_MoshDesignPatterns\BehavioralPatterns\momento\MomentoPattern\obj\Debug\net6.0\MomentoPattern.csproj.AssemblyReference.cache
+D:\_MoshDesignPatterns\BehavioralPatterns\momento\MomentoPattern\obj\Debug\net6.0\MomentoPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\_MoshDesignPatterns\BehavioralPatterns\momento\MomentoPattern\obj\Debug\net6.0\MomentoPattern.AssemblyInfoInputs.cache
+D:\_MoshDesignPatterns\BehavioralPatterns\momento\MomentoPattern\obj\Debug\net6.0\MomentoPattern.AssemblyInfo.cs
+D:\_MoshDesignPatterns\BehavioralPatterns\momento\MomentoPattern\obj\Debug\net6.0\MomentoPattern.csproj.CoreCompileInputs.cache
+D:\_MoshDesignPatterns\BehavioralPatterns\momento\MomentoPattern\bin\Debug\net6.0\MomentoPattern.exe
+D:\_MoshDesignPatterns\BehavioralPatterns\momento\MomentoPattern\bin\Debug\net6.0\MomentoPattern.deps.json
+D:\_MoshDesignPatterns\BehavioralPatterns\momento\MomentoPattern\bin\Debug\net6.0\MomentoPattern.runtimeconfig.json
+D:\_MoshDesignPatterns\BehavioralPatterns\momento\MomentoPattern\bin\Debug\net6.0\MomentoPattern.dll
+D:\_MoshDesignPatterns\BehavioralPatterns\momento\MomentoPattern\bin\Debug\net6.0\ref\MomentoPattern.dll
+D:\_MoshDesignPatterns\BehavioralPatterns\momento\MomentoPattern\bin\Debug\net6.0\MomentoPattern.pdb
+D:\_MoshDesignPatterns\BehavioralPatterns\momento\MomentoPattern\obj\Debug\net6.0\MomentoPattern.dll
+D:\_MoshDesignPatterns\BehavioralPatterns\momento\MomentoPattern\obj\Debug\net6.0\ref\MomentoPattern.dll
+D:\_MoshDesignPatterns\BehavioralPatterns\momento\MomentoPattern\obj\Debug\net6.0\MomentoPattern.pdb
+D:\_MoshDesignPatterns\BehavioralPatterns\momento\MomentoPattern\obj\Debug\net6.0\MomentoPattern.genruntimeconfig.cache

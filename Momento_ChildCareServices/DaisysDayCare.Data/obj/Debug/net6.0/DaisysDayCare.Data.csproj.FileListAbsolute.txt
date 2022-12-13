@@ -1,0 +1,12 @@
+D:\_MoshDesignPatterns\BehavioralPatterns\Momento_ChildCareServices\DaisysDayCare.Data\bin\Debug\net6.0\DaisysDayCare.Data.deps.json
+D:\_MoshDesignPatterns\BehavioralPatterns\Momento_ChildCareServices\DaisysDayCare.Data\bin\Debug\net6.0\DaisysDayCare.Data.dll
+D:\_MoshDesignPatterns\BehavioralPatterns\Momento_ChildCareServices\DaisysDayCare.Data\bin\Debug\net6.0\ref\DaisysDayCare.Data.dll
+D:\_MoshDesignPatterns\BehavioralPatterns\Momento_ChildCareServices\DaisysDayCare.Data\bin\Debug\net6.0\DaisysDayCare.Data.pdb
+D:\_MoshDesignPatterns\BehavioralPatterns\Momento_ChildCareServices\DaisysDayCare.Data\obj\Debug\net6.0\DaisysDayCare.Data.csproj.AssemblyReference.cache
+D:\_MoshDesignPatterns\BehavioralPatterns\Momento_ChildCareServices\DaisysDayCare.Data\obj\Debug\net6.0\DaisysDayCare.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\_MoshDesignPatterns\BehavioralPatterns\Momento_ChildCareServices\DaisysDayCare.Data\obj\Debug\net6.0\DaisysDayCare.Data.AssemblyInfoInputs.cache
+D:\_MoshDesignPatterns\BehavioralPatterns\Momento_ChildCareServices\DaisysDayCare.Data\obj\Debug\net6.0\DaisysDayCare.Data.AssemblyInfo.cs
+D:\_MoshDesignPatterns\BehavioralPatterns\Momento_ChildCareServices\DaisysDayCare.Data\obj\Debug\net6.0\DaisysDayCare.Data.csproj.CoreCompileInputs.cache
+D:\_MoshDesignPatterns\BehavioralPatterns\Momento_ChildCareServices\DaisysDayCare.Data\obj\Debug\net6.0\DaisysDayCare.Data.dll
+D:\_MoshDesignPatterns\BehavioralPatterns\Momento_ChildCareServices\DaisysDayCare.Data\obj\Debug\net6.0\ref\DaisysDayCare.Data.dll
+D:\_MoshDesignPatterns\BehavioralPatterns\Momento_ChildCareServices\DaisysDayCare.Data\obj\Debug\net6.0\DaisysDayCare.Data.pdb

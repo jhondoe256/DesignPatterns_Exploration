@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DaisysDayCare.UI/1.0.0": {
+        "dependencies": {
+          "DaisysDayCare.Data": "1.0.0",
+          "DaisysDayCare.Momento": "1.0.0"
+        },
+        "runtime": {
+          "DaisysDayCare.UI.dll": {}
+        }
+      },
+      "DaisysDayCare.Data/1.0.0": {
+        "runtime": {
+          "DaisysDayCare.Data.dll": {}
+        }
+      },
+      "DaisysDayCare.Momento/1.0.0": {
+        "dependencies": {
+          "DaisysDayCare.Data": "1.0.0"
+        },
+        "runtime": {
+          "DaisysDayCare.Momento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DaisysDayCare.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DaisysDayCare.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DaisysDayCare.Momento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
